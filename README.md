@@ -1,4 +1,5 @@
 # Room Interior Designer MVP
+![Logo](20250904_0217_Logo Text Removed_remix_01k48mcdvgfxcbst0tzkjaqn5j.png)
 
 ## Overview
 This project is a Minimum Viable Product (MVP) for a Room Interior Designer platform. The MVP enables users to capture a 360° photo of their room, extract approximate room dimensions using computer vision, and visualize an empty 3D wireframe of their room in a web interface.
